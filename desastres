@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<!--Realizado por Bianca -->
+<!--Desastres naturales -->
+<html lang="en">
+	<head>
+		<meta charset="utf=8>
+		<title> Desastres Naturales: Menu </title>
+		<link rel="stylesheet" href="menu.css">
+		<link rel="stylesheet" href="fonts.css">
+		<meta name="viewport" content="width=decive-width, user-scalable=no, initial-scale=1.0, minium-scale=1.0">
+	</head>
+	<body>
+	
+		<header>
+			<div class="desastres"></div>
+			<img src="desastres.jpg" class="desastres">
+			<h1> Desastres Naturales</h1>
+			<section>
+				<p class="instruccion">Gracias por participar con nosotros /p>
+			</section>
+			</div>
+			</header>
+			
+			<main>
+				<div class="desastresn" >
+				<a href="sismo.html">
+				<img class="sismo" src="sismo.png"></a>
+
+				<a href="huracan.html">
+				<img class="huracan" src="huracan.png"></a>
+				
+				<a href="incendios.html">
+				<img class="incendios" src="incendios.png"></a>
+
+				<a href="tornados.html">
+				<img class="tornados" src="tornados.png"></a>
+				</div>
+			</main>
+	</body>
+</html>
+
+
